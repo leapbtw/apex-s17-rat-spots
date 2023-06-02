@@ -1,1 +1,1 @@
-# apex-s17-rat-spots
+# moved to https://github.com/leapbtw/apex-ratspots
